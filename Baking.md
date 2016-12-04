@@ -1,4 +1,6 @@
 # BAKING
+    There are two types of raised cakes [JOB](http://www.joyofbaking.com/CakeMaking.html) : 
+
 ## CLASSIFICATIONS
     There are two types of raised cakes [JOB](http://www.joyofbaking.com/CakeMaking.html) : 
     1. Foam cake [JOB](http://www.joyofbaking.com/FoamCakes.htm) [JOB](http://www.joyofbaking.com/FoamCakesTechniques.html): - Definition: High egg to ratio and are leavened by the air beatened into whole eggs or egg whites. Contains: flour, sugar, eggs, and sometimes butter. Even it contains butter, it is not called buttercake.  
