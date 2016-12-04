@@ -11,7 +11,7 @@ There are two types of raised cakes [1](http://www.joyofbaking.com/CakeMaking.ht
       - Those contain no fat: Angel Food Cake, Merigue and Dacquoises.
       - Those contain only fat from egg yolks: Sponge Cake, some biscuits, Roulade
       - Those contain fat (butter, shortening) plus egg yolks: Genoises and Chiffons.
-  - Baking methods: 
+  - Baking methods [1](http://www.mommiecooks.com/2010/08/03/beyond-the-basics-sponge-cake-recipe/)[2](http://www.joyofbaking.com/FoamCakesTechniques.html):
       - Separated Egg methods: (Sponge, Angel Food Cake, Merigue, Dacquoise, Biscuit, Roulade, Chiffon): Seperated yolks and whites. Yolks are beaten with granulated white sugar until the mixture is thick and lemon colored. Another bowl, whites are beaten with sugar until reaching peaks. Mixing egg whites, flour into yolks. Bake.
       - Whole Egg Methods: (Genoise) Put eggs and sugar into a metal bowl over a saucepan of warm water. Heating until it reaches approximately 40C(100F) (making sugar dissolves into the mixture). Remove the cake from mixture from the waterbath, and beat until thick and cool. The flour are gently folded in. Then butter is added. Bake.
 
