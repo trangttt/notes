@@ -1,5 +1,5 @@
 # BAKING
-    There are two types of raised cakes  [job](http://www.joyofbaking.com/CakeMaking.html) : 
+There are two types of raised cakes  [job](http://www.joyofbaking.com/CakeMaking.html) : 
 
 ## CLASSIFICATIONS
     There are two types of raised cakes [JOB](http://www.joyofbaking.com/CakeMaking.html) : 
