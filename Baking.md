@@ -4,9 +4,9 @@
 
 There are two types of raised cakes [1](http://www.joyofbaking.com/CakeMaking.html) : 
 
-1. Foam cake [1](http://www.joyofbaking.com/FoamCakes.htm) [2](http://www.joyofbaking.com/FoamCakesTechniques.html): 
+1. Foam cake [1](http://www.joyofbaking.com/FoamCakes.html) [2](http://www.joyofbaking.com/FoamCakesTechniques.html): 
  
-  - Definition: High egg to ratio and are leavened by the air beatened into whole eggs or egg whites. Contains: flour, sugar, eggs, and sometimes butter. Even it contains butter, it is not called buttercake. It has a spongy texture. Except Chiffon which also contains baking powder.
+  - Definition: High egg to fluor ratio and are leavened by the air beatened into whole eggs or egg whites. Contains: flour, sugar, eggs, and sometimes butter. Even it contains butter, it is not called buttercake. It has a spongy texture. Except Chiffon which also contains baking powder.
   - Classifications:
       - Those contain no fat: Angel Food Cake, Merigue and Dacquoises.
         + Angel Food Cake:
@@ -30,19 +30,21 @@ There are two types of raised cakes [1](http://www.joyofbaking.com/CakeMaking.ht
       - Creaming method: Butter is at room temperature. Beating sugar and butter from low to high speed. Beating can vary from 5 to 10 mins. Room temperature eggs are added. Then flour and leavening agentsare sifted and mixed together. Flour and room temperature liquid are added alternately. Not to overmix batter otherwise glue is formed.
       - One bowl ( Quick or blending ): cake is moist, dense with fine and velvety texture. All the dry ingredient are first put into a mixing bowl with melted butter and a litter liquid. After thoroughly beaten, then eggs, flavoring and the remaining liquid are added.
       - Combination: whipped egg whites are added to the creamed ingredients.
-  
+ 
 ## INGREDIENTS
 
 Flour types:
   
 ## CAKE RECIPES
-
-### BASIC SPONGE CAKE
+    1. [Sponge cake](Sponge cake)
+    2. Butter cake
+    3. Cupcake with steaming.
+       - Ingredients: 
+         - 150g flour, 3 eggs, 150g sugar, 40g butter (fesb)
+         - 5mg baking powder, 5g vanilla sugar
+         - Whole egg methods without steaming
+       - Results: cakes still egg ordor, a bit too moist. Too little butter but too much sugar.
+    4. 
  
-1. Savoury days - Fail proof basic sponge cake [1](http://www.savourydays.com/gateau-co-ban-bat-bai-no-fail-sponge-cake/):
-
-### BUTTERCAKE
-
-
 ## BUTTERCREAM FROSTING
     1. 
